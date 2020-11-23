@@ -1,0 +1,9 @@
+face-recognition
+Keras==2.3.1
+tensorflow==1.15.4
+scikit-learn
+torch==1.4.0
+Pillow
+opencv-python
+pymongo
+tqdm
